@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Complaints | Complaint AI</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body onload="loadComplaints()">
+    <div class="cyber-grid"></div>
+    <div class="particles"></div>
+    
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="brand-icon">CA</div>
+            <div>
+                <h1>Complaint AI</h1>
+                <p>Complaint Lifecycle Tracking</p>
+            </div>
+        </div>
+        <nav class="nav-links">
+            <button class="nav-btn" onclick="goTo('index.html')">Analyzer</button>
+            <button class="nav-btn active" onclick="goTo('complaints.html')">Complaints</button>
+            <button class="nav-btn" onclick="goTo('stats.html')">Analytics</button>
+        </nav>
+    </header>
+
+    <main class="main-layout">
+        <section class="page-header card">
+            <div>
+                <span class="hero-badge">Live Operations</span>
+                <h2>All Complaints</h2>
+                <p>Monitor complaint status, priority levels, and resolution progress in real-time.</p>
+            </div>
+            <div class="header-actions">
+                <button class="secondary" onclick="location.reload()">🔄 Refresh</button>
+                <button class="primary" onclick="exportAll()">⬇️ Export CSV + PDF</button>
+                <button class="primary" onclick="exportCSV()">📊 CSV</button>
+                <button class="primary" onclick="exportPDF()">📄 PDF</button>
+                <button class="primary" onclick="printPage()">🖨️ Print</button>
+            </div>
+        </section>
+
+        <section class="card">
+            <div id="list" class="complaint-list"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

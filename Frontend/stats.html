@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Dashboard | Complaint AI</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body onload="loadStats()">
+    <div class="cyber-grid"></div>
+    <div class="particles"></div>
+    
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="brand-icon">📊</div>
+            <div>
+                <h1>Complaint AI</h1>
+                <p>Neural Analytics Dashboard</p>
+            </div>
+        </div>
+        <nav class="nav-links">
+            <button class="nav-btn" onclick="goTo('index.html')">
+                <i class="fas fa-robot"></i> Analyzer
+            </button>
+            <button class="nav-btn" onclick="goTo('complaints.html')">
+                <i class="fas fa-list"></i> Complaints
+            </button>
+            <button class="nav-btn active">
+                <i class="fas fa-chart-line"></i> Analytics
+            </button>
+        </nav>
+    </header>
+
+    <!-- CYBERPUNK DASHBOARD -->
+    <main class="dashboard-main">
+        <!-- HEADER STATS -->
+        <section class="stats-header">
+            <div class="stat-card cyber-card glow-cyan">
+                <i class="fas fa-exclamation-triangle stat-icon"></i>
+                <div class="stat-content">
+                    <div class="stat-label">Total Complaints</div>
+                    <span class="stat-number" id="totalCount">0</span>
+                    <div class="stat-change positive">
+                        <i class="fas fa-arrow-up"></i> Live
+                    </div>
+                </div>
+            </div>
+            
+            <div class="stat-card cyber-card glow-green">
+                <i class="fas fa-check-circle stat-icon"></i>
+                <div class="stat-content">
+                    <div class="stat-label">Resolved</div>
+                    <span class="stat-number" id="resolvedCount">0</span>
+                    <div class="stat-change positive">
+                        <i class="fas fa-arrow-up"></i> Success Rate
+                    </div>
+                </div>
+            </div>
+            
+            <div class="stat-card cyber-card glow-red">
+                <i class="fas fa-clock stat-icon"></i>
+                <div class="stat-content">
+                    <div class="stat-label">Pending</div>
+                    <span class="stat-number" id="pendingCount">0</span>
+                    <div class="stat-change negative">
+                        <i class="fas fa-arrow-down"></i> Needs Attention
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PERFECT 2x2 CHARTS GRID -->
+        <section class="charts-grid-2x2">
+            <!-- TOP ROW: Priority + City -->
+            <div class="chart-row">
+                <!-- PRIORITY CHART -->
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <i class="fas fa-fire"></i> Priority Distribution
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="priorityChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- CITY CHART -->
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <p id="topCity" style="margin-top:10px; color:#00f5ff; font-weight:600;"></p>
+                        <i class="fas fa-map-marker-alt"></i> City Distribution
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="cityChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- BOTTOM ROW: Category + Status -->
+            <div class="chart-row">
+                <!-- CATEGORY CHART -->
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <i class="fas fa-tags"></i> Category Breakdown
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="categoryChart"></canvas>
+                    </div>
+                </div>
+                
+
+                <!-- STATUS CHART (NOW BESIDE CATEGORY) -->
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <i class="fas fa-chart-pie"></i> Status Overview
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="statusChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CONTROLS -->
+        <div class="dashboard-controls cyber-card">
+            
+            <button class="btn-neon" onclick="location.reload()">
+                <i class="fas fa-sync-alt"></i> Refresh Live
+            </button>
+            <div class="live-status">
+                <div class="live-dot"></div>
+                <span>Real-time Data</span>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Complaint AI - Analyzer</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="cyber-grid"></div>
+    <div class="particles"></div>
+    
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="brand-icon">AI</div>
+            <div>
+                <h1>Complaint AI</h1>
+                <p>Neural Complaint Classification</p>
+            </div>
+        </div>
+        <nav class="nav-links">
+            <button class="nav-btn active" onclick="goTo('index.html')">Analyzer</button>
+            <button class="nav-btn" onclick="goTo('complaints.html')">Complaints</button>
+            <button class="nav-btn" onclick="goTo('stats.html')">Analytics</button>
+        </nav>
+    </header>
+
+    <main class="main-layout">
+        <section class="page-header card">
+            <div>
+                <span class="hero-badge">Neural Engine</span>
+                <h2>Analyze Complaint</h2>
+                <p>Paste complaint text and get instant AI classification with priority & category detection.</p>
+            </div>
+        </section>
+
+        <section class="content-grid">
+            <div class="card analyzer-card">
+                <div class="section-heading">
+                    <h2>Complaint Input</h2>
+                    <p>Enter complaint details for automatic classification</p>
+                </div>
+                
+                <div class="input-group">
+                    <label>Input Type</label>
+                    <div class="custom-dropdown" id="inputType">
+                    <div class="selected" onclick="toggleDropdown()">Text</div>
+                    
+                    <div class="options" id="dropdownOptions">
+                        <div onclick="selectOption('Text')">Text</div>
+                        <div onclick="selectOption('Call Summary')">Call Summary</div>
+                    </div>
+                </div>
+                </div>
+                
+                <div class="input-group">
+                    <label>City</label>
+                  <div class="custom-dropdown" id="cityDropdown">
+    <div class="selected" id="selectedCity" onclick="toggleCity()">Select City</div>
+                <div class="options" id="cityOptions">
+                    <div onclick="selectCity('Surat')">Surat</div>
+                    <div onclick="selectCity('Ahmedabad')">Ahmedabad</div>
+                    <div onclick="selectCity('Pune')">Pune</div>
+                    <div onclick="selectCity('Mumbai')">Mumbai</div>
+                    <div onclick="selectCity('Delhi')">Delhi</div>
+                </div>
+                </div>
+                </div>
+                
+                <div class="input-group">
+                    <label>Area</label>
+                    <input type="text" id="area" placeholder="Enter Area (e.g., Adajan, Vesu)">
+                </div>
+                <br>
+                <textarea id="complaint" placeholder="Type your complaint here... (e.g., 'My order #12345 was delayed 3 days and customer service hung up on me')"></textarea>
+                
+                <div class="action-row">
+                    <button class="primary" onclick="analyze()">🔍 Analyze Complaint</button>
+                    <button class="secondary" onclick="clearForm()">🗑️ Clear</button>
+                    <!-- <button class="secondary" onclick="startVoice()">🎙️ Voice Input</button> -->
+                </div>
+
+                <div id="result" class="result-box"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
