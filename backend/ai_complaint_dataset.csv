@@ -1,0 +1,201 @@
+Complaint_ID,Complaint_Text,Category,Priority,Suggested_Resolution
+1,Lab equipment not available,Administration,Low,Escalate to admin department for verification
+2,Assignment submission portal error,IT Services,Medium,Assign issue to IT support team
+3,Faculty not available during office hours,Administration,High,Escalate to admin department for verification
+4,Library books are outdated,Academic,Low,Contact academic office and assign faculty support
+5,Slow internet in computer lab,Hostel,Low,Inform hostel warden and take corrective action
+6,Noise disturbance in hostel,Infrastructure,Low,Forward to maintenance team for repair
+7,Slow internet in computer lab,Administration,High,Escalate to admin department for verification
+8,Noise disturbance in hostel,Academic,Medium,Contact academic office and assign faculty support
+9,Library books are outdated,Infrastructure,Low,Forward to maintenance team for repair
+10,Water leakage in hostel bathroom,Infrastructure,High,Forward to maintenance team for repair
+11,Slow internet in computer lab,Academic,Medium,Contact academic office and assign faculty support
+12,Water leakage in hostel bathroom,IT Services,Medium,Assign issue to IT support team
+13,Noise disturbance in hostel,IT Services,High,Assign issue to IT support team
+14,Lab equipment not available,Infrastructure,Medium,Forward to maintenance team for repair
+15,Library books are outdated,Academic,Medium,Contact academic office and assign faculty support
+16,Electricity issues in campus,Academic,Medium,Contact academic office and assign faculty support
+17,Slow internet in computer lab,Academic,Low,Contact academic office and assign faculty support
+18,Air conditioning not working,Infrastructure,Medium,Forward to maintenance team for repair
+19,App crashing during submission,Administration,Medium,Escalate to admin department for verification
+20,WiFi not working in hostel room,Infrastructure,Low,Forward to maintenance team for repair
+21,Electricity issues in campus,Hostel,Low,Inform hostel warden and take corrective action
+22,Slow internet in computer lab,Hostel,Medium,Inform hostel warden and take corrective action
+23,Air conditioning not working,Infrastructure,Medium,Forward to maintenance team for repair
+24,Lab equipment not available,Hostel,Medium,Inform hostel warden and take corrective action
+25,Timetable clashes for subjects,Hostel,High,Inform hostel warden and take corrective action
+26,App crashing during submission,IT Services,Medium,Assign issue to IT support team
+27,WiFi not working in hostel room,IT Services,Medium,Assign issue to IT support team
+28,Unable to register for courses,Academic,Low,Contact academic office and assign faculty support
+29,Transport bus delays,Infrastructure,Medium,Forward to maintenance team for repair
+30,Lab equipment not available,Academic,Low,Contact academic office and assign faculty support
+31,Unable to register for courses,Hostel,High,Inform hostel warden and take corrective action
+32,Library books are outdated,Administration,Medium,Escalate to admin department for verification
+33,Unable to register for courses,Academic,Low,Contact academic office and assign faculty support
+34,Hostel food quality is poor,IT Services,Medium,Assign issue to IT support team
+35,Air conditioning not working,Academic,Low,Contact academic office and assign faculty support
+36,ID card not issued yet,Administration,Low,Escalate to admin department for verification
+37,Classroom projector not functioning,Hostel,High,Inform hostel warden and take corrective action
+38,Assignment submission portal error,IT Services,Low,Assign issue to IT support team
+39,Hostel food quality is poor,Infrastructure,Low,Forward to maintenance team for repair
+40,ID card not issued yet,Hostel,High,Inform hostel warden and take corrective action
+41,Slow internet in computer lab,Administration,Low,Escalate to admin department for verification
+42,Slow internet in computer lab,IT Services,Low,Assign issue to IT support team
+43,Hostel food quality is poor,Academic,Medium,Contact academic office and assign faculty support
+44,Library books are outdated,IT Services,Low,Assign issue to IT support team
+45,Noise disturbance in hostel,Administration,High,Escalate to admin department for verification
+46,Transport bus delays,Hostel,High,Inform hostel warden and take corrective action
+47,Lab equipment not available,Hostel,Low,Inform hostel warden and take corrective action
+48,Delay in exam result declaration,Administration,Low,Escalate to admin department for verification
+49,Lab equipment not available,Administration,High,Escalate to admin department for verification
+50,App crashing during submission,Academic,Medium,Contact academic office and assign faculty support
+51,Timetable clashes for subjects,Infrastructure,Medium,Forward to maintenance team for repair
+52,Noise disturbance in hostel,Infrastructure,Medium,Forward to maintenance team for repair
+53,Water leakage in hostel bathroom,IT Services,High,Assign issue to IT support team
+54,Assignment submission portal error,Academic,Low,Contact academic office and assign faculty support
+55,App crashing during submission,IT Services,Medium,Assign issue to IT support team
+56,WiFi not working in hostel room,Administration,Low,Escalate to admin department for verification
+57,Transport bus delays,Academic,Low,Contact academic office and assign faculty support
+58,Unable to register for courses,Infrastructure,Low,Forward to maintenance team for repair
+59,Classroom projector not functioning,Academic,Low,Contact academic office and assign faculty support
+60,Water leakage in hostel bathroom,Academic,High,Contact academic office and assign faculty support
+61,Library books are outdated,Infrastructure,High,Forward to maintenance team for repair
+62,ID card not issued yet,Infrastructure,Medium,Forward to maintenance team for repair
+63,Lab equipment not available,Administration,Low,Escalate to admin department for verification
+64,Transport bus delays,Hostel,Low,Inform hostel warden and take corrective action
+65,App crashing during submission,Infrastructure,Low,Forward to maintenance team for repair
+66,Noise disturbance in hostel,IT Services,High,Assign issue to IT support team
+67,Slow internet in computer lab,Academic,Medium,Contact academic office and assign faculty support
+68,WiFi not working in hostel room,IT Services,Medium,Assign issue to IT support team
+69,Classroom projector not functioning,IT Services,Medium,Assign issue to IT support team
+70,Delay in exam result declaration,Administration,High,Escalate to admin department for verification
+71,Water leakage in hostel bathroom,IT Services,High,Assign issue to IT support team
+72,Hostel food quality is poor,Hostel,High,Inform hostel warden and take corrective action
+73,Scholarship not received,Administration,Medium,Escalate to admin department for verification
+74,Delay in exam result declaration,Academic,Medium,Contact academic office and assign faculty support
+75,Slow internet in computer lab,Hostel,Low,Inform hostel warden and take corrective action
+76,Hostel food quality is poor,Infrastructure,Low,Forward to maintenance team for repair
+77,Unable to register for courses,Infrastructure,High,Forward to maintenance team for repair
+78,Assignment submission portal error,Administration,Low,Escalate to admin department for verification
+79,Timetable clashes for subjects,Infrastructure,High,Forward to maintenance team for repair
+80,Issue with online fee payment portal,Infrastructure,Medium,Forward to maintenance team for repair
+81,Noise disturbance in hostel,Administration,Medium,Escalate to admin department for verification
+82,Water leakage in hostel bathroom,Academic,Medium,Contact academic office and assign faculty support
+83,WiFi not working in hostel room,Infrastructure,Medium,Forward to maintenance team for repair
+84,Timetable clashes for subjects,Academic,Medium,Contact academic office and assign faculty support
+85,Issue with online fee payment portal,Infrastructure,Low,Forward to maintenance team for repair
+86,Assignment submission portal error,Administration,High,Escalate to admin department for verification
+87,Slow internet in computer lab,Administration,High,Escalate to admin department for verification
+88,Noise disturbance in hostel,Infrastructure,Medium,Forward to maintenance team for repair
+89,Faculty not available during office hours,Hostel,High,Inform hostel warden and take corrective action
+90,Issue with online fee payment portal,IT Services,Medium,Assign issue to IT support team
+91,Water leakage in hostel bathroom,IT Services,High,Assign issue to IT support team
+92,Water leakage in hostel bathroom,IT Services,High,Assign issue to IT support team
+93,Unable to register for courses,Academic,Medium,Contact academic office and assign faculty support
+94,Timetable clashes for subjects,Administration,High,Escalate to admin department for verification
+95,Library books are outdated,Hostel,High,Inform hostel warden and take corrective action
+96,Classroom projector not functioning,IT Services,High,Assign issue to IT support team
+97,Noise disturbance in hostel,Infrastructure,Low,Forward to maintenance team for repair
+98,Water leakage in hostel bathroom,Infrastructure,Medium,Forward to maintenance team for repair
+99,Issue with online fee payment portal,IT Services,Low,Assign issue to IT support team
+100,Unable to register for courses,Infrastructure,Low,Forward to maintenance team for repair
+101,Scholarship not received,Hostel,High,Inform hostel warden and take corrective action
+102,Hostel food quality is poor,IT Services,Medium,Assign issue to IT support team
+103,Noise disturbance in hostel,Academic,High,Contact academic office and assign faculty support
+104,Hostel food quality is poor,Academic,Low,Contact academic office and assign faculty support
+105,Assignment submission portal error,Infrastructure,Medium,Forward to maintenance team for repair
+106,Faculty not available during office hours,Administration,Low,Escalate to admin department for verification
+107,ID card not issued yet,Hostel,Low,Inform hostel warden and take corrective action
+108,App crashing during submission,Administration,Medium,Escalate to admin department for verification
+109,Faculty not available during office hours,Administration,Low,Escalate to admin department for verification
+110,Transport bus delays,Academic,High,Contact academic office and assign faculty support
+111,Timetable clashes for subjects,Hostel,Low,Inform hostel warden and take corrective action
+112,Delay in exam result declaration,IT Services,Medium,Assign issue to IT support team
+113,App crashing during submission,Administration,Medium,Escalate to admin department for verification
+114,Faculty not available during office hours,Hostel,Medium,Inform hostel warden and take corrective action
+115,Faculty not available during office hours,Administration,High,Escalate to admin department for verification
+116,Electricity issues in campus,Hostel,High,Inform hostel warden and take corrective action
+117,WiFi not working in hostel room,Academic,Low,Contact academic office and assign faculty support
+118,App crashing during submission,Infrastructure,High,Forward to maintenance team for repair
+119,Electricity issues in campus,Infrastructure,High,Forward to maintenance team for repair
+120,Issue with online fee payment portal,Hostel,High,Inform hostel warden and take corrective action
+121,Delay in exam result declaration,Academic,High,Contact academic office and assign faculty support
+122,Unable to register for courses,Academic,High,Contact academic office and assign faculty support
+123,Slow internet in computer lab,Hostel,High,Inform hostel warden and take corrective action
+124,Classroom projector not functioning,Academic,High,Contact academic office and assign faculty support
+125,ID card not issued yet,Hostel,Medium,Inform hostel warden and take corrective action
+126,ID card not issued yet,IT Services,Medium,Assign issue to IT support team
+127,Air conditioning not working,IT Services,High,Assign issue to IT support team
+128,Issue with online fee payment portal,Academic,Low,Contact academic office and assign faculty support
+129,Lab equipment not available,Infrastructure,High,Forward to maintenance team for repair
+130,Library books are outdated,Hostel,Medium,Inform hostel warden and take corrective action
+131,Water leakage in hostel bathroom,IT Services,Low,Assign issue to IT support team
+132,App crashing during submission,Infrastructure,High,Forward to maintenance team for repair
+133,Air conditioning not working,IT Services,Medium,Assign issue to IT support team
+134,Transport bus delays,Academic,High,Contact academic office and assign faculty support
+135,WiFi not working in hostel room,IT Services,Medium,Assign issue to IT support team
+136,Timetable clashes for subjects,Academic,Medium,Contact academic office and assign faculty support
+137,Electricity issues in campus,IT Services,High,Assign issue to IT support team
+138,App crashing during submission,IT Services,Low,Assign issue to IT support team
+139,Assignment submission portal error,Infrastructure,Medium,Forward to maintenance team for repair
+140,Issue with online fee payment portal,Hostel,Medium,Inform hostel warden and take corrective action
+141,Scholarship not received,Administration,High,Escalate to admin department for verification
+142,Unable to register for courses,Academic,Low,Contact academic office and assign faculty support
+143,Noise disturbance in hostel,Hostel,Low,Inform hostel warden and take corrective action
+144,Lab equipment not available,Academic,High,Contact academic office and assign faculty support
+145,Transport bus delays,Administration,Low,Escalate to admin department for verification
+146,Slow internet in computer lab,Academic,High,Contact academic office and assign faculty support
+147,Unable to register for courses,IT Services,Low,Assign issue to IT support team
+148,Delay in exam result declaration,IT Services,Medium,Assign issue to IT support team
+149,Hostel food quality is poor,Hostel,Low,Inform hostel warden and take corrective action
+150,Transport bus delays,Hostel,Low,Inform hostel warden and take corrective action
+151,Lab equipment not available,IT Services,Low,Assign issue to IT support team
+152,Electricity issues in campus,Academic,Low,Contact academic office and assign faculty support
+153,Timetable clashes for subjects,Administration,Medium,Escalate to admin department for verification
+154,Lab equipment not available,Administration,High,Escalate to admin department for verification
+155,Scholarship not received,Infrastructure,Low,Forward to maintenance team for repair
+156,Faculty not available during office hours,Administration,High,Escalate to admin department for verification
+157,App crashing during submission,Academic,Low,Contact academic office and assign faculty support
+158,Classroom projector not functioning,Administration,Low,Escalate to admin department for verification
+159,WiFi not working in hostel room,Hostel,Medium,Inform hostel warden and take corrective action
+160,Water leakage in hostel bathroom,Hostel,Medium,Inform hostel warden and take corrective action
+161,ID card not issued yet,Hostel,Low,Inform hostel warden and take corrective action
+162,ID card not issued yet,Academic,Medium,Contact academic office and assign faculty support
+163,Assignment submission portal error,IT Services,High,Assign issue to IT support team
+164,Noise disturbance in hostel,Academic,Low,Contact academic office and assign faculty support
+165,Lab equipment not available,IT Services,Medium,Assign issue to IT support team
+166,Faculty not available during office hours,IT Services,High,Assign issue to IT support team
+167,Scholarship not received,Administration,High,Escalate to admin department for verification
+168,Library books are outdated,Infrastructure,High,Forward to maintenance team for repair
+169,Slow internet in computer lab,Infrastructure,Medium,Forward to maintenance team for repair
+170,Assignment submission portal error,IT Services,Low,Assign issue to IT support team
+171,Electricity issues in campus,IT Services,Low,Assign issue to IT support team
+172,Water leakage in hostel bathroom,Academic,High,Contact academic office and assign faculty support
+173,Water leakage in hostel bathroom,Infrastructure,Medium,Forward to maintenance team for repair
+174,WiFi not working in hostel room,Hostel,High,Inform hostel warden and take corrective action
+175,ID card not issued yet,Academic,Low,Contact academic office and assign faculty support
+176,Timetable clashes for subjects,Infrastructure,Medium,Forward to maintenance team for repair
+177,Scholarship not received,Infrastructure,High,Forward to maintenance team for repair
+178,Unable to register for courses,Hostel,Low,Inform hostel warden and take corrective action
+179,Hostel food quality is poor,IT Services,High,Assign issue to IT support team
+180,ID card not issued yet,Academic,High,Contact academic office and assign faculty support
+181,App crashing during submission,Academic,Low,Contact academic office and assign faculty support
+182,Air conditioning not working,Academic,Medium,Contact academic office and assign faculty support
+183,Issue with online fee payment portal,Hostel,Low,Inform hostel warden and take corrective action
+184,ID card not issued yet,Administration,Low,Escalate to admin department for verification
+185,Lab equipment not available,IT Services,High,Assign issue to IT support team
+186,Timetable clashes for subjects,Hostel,Low,Inform hostel warden and take corrective action
+187,Assignment submission portal error,Academic,Medium,Contact academic office and assign faculty support
+188,WiFi not working in hostel room,Administration,High,Escalate to admin department for verification
+189,Air conditioning not working,Hostel,Medium,Inform hostel warden and take corrective action
+190,Slow internet in computer lab,Academic,Medium,Contact academic office and assign faculty support
+191,Slow internet in computer lab,Administration,High,Escalate to admin department for verification
+192,Classroom projector not functioning,IT Services,Low,Assign issue to IT support team
+193,ID card not issued yet,Hostel,Low,Inform hostel warden and take corrective action
+194,App crashing during submission,IT Services,Low,Assign issue to IT support team
+195,Lab equipment not available,Hostel,Medium,Inform hostel warden and take corrective action
+196,Delay in exam result declaration,Hostel,Low,Inform hostel warden and take corrective action
+197,Timetable clashes for subjects,Administration,Low,Escalate to admin department for verification
+198,Lab equipment not available,Administration,High,Escalate to admin department for verification
+199,Transport bus delays,Academic,Low,Contact academic office and assign faculty support
+200,Faculty not available during office hours,Infrastructure,Low,Forward to maintenance team for repair

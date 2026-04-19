@@ -1,0 +1,2001 @@
+text,category,priority,recommendation,sla
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Classrooms lack ventilation,Infrastructure,Medium,Improve ventilation facilities,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Road near campus is damaged,Infrastructure,Low,Repair road and ensure safety,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+High fever complaint,Health,High,Provide immediate medical assistance,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+No drinking water available,Infrastructure,High,Restore water supply immediately,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Hostel room is dirty,Hostel,Medium,Arrange cleaning and hygiene inspection,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Food delivered in bad condition,Food,High,Replace order and review packaging,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Unauthorized people entering campus,Security,Medium,Increase security monitoring,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+WiFi is not working,IT Services,Low,Check network infrastructure and resolve issue,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+No drinking water available,Infrastructure,Low,Restore water supply immediately,72 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+Classrooms lack ventilation,Infrastructure,Low,Improve ventilation facilities,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No job opportunities,Career,Low,Arrange career guidance sessions,72 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Road near campus is damaged,Infrastructure,Medium,Repair road and ensure safety,48 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Internet speed is very slow,IT Services,Low,Upgrade bandwidth and fix connectivity,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Hostel room is dirty,Hostel,High,Arrange cleaning and hygiene inspection,24 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Unable to find internship,Career,Medium,Provide placement support,48 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Road near campus is damaged,Infrastructure,High,Repair road and ensure safety,24 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+WiFi is not working,IT Services,High,Check network infrastructure and resolve issue,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+No guards at parking area,Security,Medium,Deploy guards and install CCTV,48 hours
+Water leakage in building,Infrastructure,High,Inform maintenance team to fix plumbing issue,24 hours
+Lack of study materials,Academic,High,Provide academic resources,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+Water leakage in building,Infrastructure,Medium,Inform maintenance team to fix plumbing issue,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+Refund not received,Finance,Low,Verify and process refund,72 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Exams are getting postponed,Academic,Low,Coordinate with exam cell,72 hours
+Lack of study materials,Academic,Medium,Provide academic resources,48 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+Classrooms lack ventilation,Infrastructure,High,Improve ventilation facilities,24 hours
+Unable to find internship,Career,High,Provide placement support,24 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Food quality is poor,Food,Medium,Inspect food quality and take corrective action,48 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Refund not received,Finance,Medium,Verify and process refund,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Noise disturbance in hostel,Hostel,Medium,Inform hostel warden and enforce quiet hours,48 hours
+Water leakage in building,Infrastructure,Low,Inform maintenance team to fix plumbing issue,72 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
+No buses after evening,Transport,Medium,Add transport service after hours,48 hours
+Food delivered in bad condition,Food,Medium,Replace order and review packaging,48 hours
+Stress due to studies,Health,Medium,Provide counseling support,48 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Garbage overflow near hostel,Hostel,Low,Arrange waste disposal immediately,72 hours
+High fever complaint,Health,Medium,Provide immediate medical assistance,48 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Noise disturbance in hostel,Hostel,Low,Inform hostel warden and enforce quiet hours,72 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+Food delivered in bad condition,Food,Low,Replace order and review packaging,72 hours
+Food quality is poor,Food,Low,Inspect food quality and take corrective action,72 hours
+Unauthorized people entering campus,Security,High,Increase security monitoring,24 hours
+Unauthorized people entering campus,Security,Low,Increase security monitoring,72 hours
+Garbage overflow near hostel,Hostel,Medium,Arrange waste disposal immediately,48 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Internet speed is very slow,IT Services,High,Upgrade bandwidth and fix connectivity,24 hours
+Food quality is poor,Food,High,Inspect food quality and take corrective action,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Transport delay issue,Transport,High,Optimize transport schedule,24 hours
+Unable to find internship,Career,Low,Provide placement support,72 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Internet speed is very slow,IT Services,Medium,Upgrade bandwidth and fix connectivity,48 hours
+Noise disturbance in hostel,Hostel,High,Inform hostel warden and enforce quiet hours,24 hours
+Hostel room is dirty,Hostel,Low,Arrange cleaning and hygiene inspection,72 hours
+Exams are getting postponed,Academic,High,Coordinate with exam cell,24 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No job opportunities,Career,Medium,Arrange career guidance sessions,48 hours
+Lack of study materials,Academic,Low,Provide academic resources,72 hours
+No job opportunities,Career,High,Arrange career guidance sessions,24 hours
+No drinking water available,Infrastructure,Medium,Restore water supply immediately,48 hours
+High fever complaint,Health,Low,Provide immediate medical assistance,72 hours
+Refund not received,Finance,High,Verify and process refund,24 hours
+No guards at parking area,Security,High,Deploy guards and install CCTV,24 hours
+Fee payment issue,Finance,Low,Resolve payment gateway issue,72 hours
+Stress due to studies,Health,High,Provide counseling support,24 hours
+Fee payment issue,Finance,High,Resolve payment gateway issue,24 hours
+No buses after evening,Transport,Low,Add transport service after hours,72 hours
+No guards at parking area,Security,Low,Deploy guards and install CCTV,72 hours
+No buses after evening,Transport,High,Add transport service after hours,24 hours
+Fee payment issue,Finance,Medium,Resolve payment gateway issue,48 hours
+Stress due to studies,Health,Low,Provide counseling support,72 hours
+Exams are getting postponed,Academic,Medium,Coordinate with exam cell,48 hours
+WiFi is not working,IT Services,Medium,Check network infrastructure and resolve issue,48 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Garbage overflow near hostel,Hostel,High,Arrange waste disposal immediately,24 hours
+Transport delay issue,Transport,Medium,Optimize transport schedule,48 hours
+Transport delay issue,Transport,Low,Optimize transport schedule,72 hours
