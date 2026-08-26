@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "name": "Surat",
+      "aliases": ["surat"],
+      "areas": [
+        "Adajan", "Vesu", "Piplod", "Athwa", "Katargam", "Varachha",
+        "Althan", "Pal", "Dumas", "Udhna", "Majura Gate", "Ring Road",
+        "Limbayat", "Bhestan", "Jahangirpura", "Sachin", "Olpad",
+        "Rundh", "Nanpura", "Gopipura", "Begampura", "Chowk Bazar",
+        "Rander", "Bamroli", "Kosad", "Punagam", "Singanpore",
+        "Amroli", "Pandesara", "Bhattar", "City Light", "Dindoli",
+        "Palanpur Jakatnaka", "Sarthana", "Variav", "Kapodra"
+      ]
+    },
+    {
+      "name": "Ahmedabad",
+      "aliases": ["ahmedabad", "amdavad", "amdabad"],
+      "areas": [
+        "Navrangpura", "Satellite", "Bodakdev", "Vastrapur", "Prahlad Nagar",
+        "Thaltej", "Chandkheda", "Bopal", "Gota", "Maninagar",
+        "Isanpur", "Naroda", "Odhav", "Vastral", "Bapunagar",
+        "Gomtipur", "Vatva", "Ghodasar", "Nikol", "Naranpura",
+        "Ambawadi", "Ashram Road", "CG Road", "SG Road", "Drive In Road",
+        "Memnagar", "Gurukul", "Sabarmati", "Ranip", "Motera",
+        "Gandhinagar Highway", "Paldi", "Vejalpur", "Jodhpur", "Ambli"
+      ]
+    },
+    {
+      "name": "Pune",
+      "aliases": ["pune", "poona"],
+      "areas": [
+        "Kothrud", "Wakad", "Baner", "Hinjewadi", "Viman Nagar",
+        "Koregaon Park", "Aundh", "Deccan", "Shivajinagar", "Kharadi",
+        "Hadapsar", "Magarpatta", "Undri", "Kondhwa", "Katraj",
+        "Wanowrie", "Bibwewadi", "Sinhagad Road", "Warje", "Bavdhan",
+        "Pashan", "Sus", "Balewadi", "Kalyani Nagar", "Nagar Road",
+        "Yerwada", "Wadgaonsheri", "Mundhwa", "Manjri", "Dhanori"
+      ]
+    },
+    {
+      "name": "Mumbai",
+      "aliases": ["mumbai", "bombay"],
+      "areas": [
+        "Andheri", "Bandra", "Dadar", "Kurla", "Borivali",
+        "Kandivali", "Malad", "Goregaon", "Jogeshwari", "Vile Parle",
+        "Santacruz", "Khar", "Juhu", "Versova", "Powai",
+        "Vikhroli", "Ghatkopar", "Mulund", "Thane", "Belapur",
+        "Worli", "Lower Parel", "Prabhadevi", "Matunga", "Sion",
+        "Chembur", "Dombivli", "Kalyan", "Navi Mumbai", "Panvel",
+        "Fort", "Colaba", "Marine Lines", "Grant Road", "Masjid"
+      ]
+    },
+    {
+      "name": "Delhi",
+      "aliases": ["delhi", "new delhi"],
+      "areas": [
+        "Connaught Place", "Lajpat Nagar", "Rohini", "Dwarka", "Saket",
+        "Vasant Kunj", "Janakpuri", "Pitampura", "Shalimar Bagh",
+        "Rajouri Garden", "Punjabi Bagh", "Prashant Vihar", "Ashok Vihar",
+        "Model Town", "Civil Lines", "Karol Bagh", "Paharganj",
+        "Shahdara", "Mayur Vihar", "Geeta Colony", "Laxmi Nagar",
+        "Noida Border", "Sarita Vihar", "Badarpur", "Govindpuri",
+        "Hauz Khas", "Green Park", "Greater Kailash", "Malviya Nagar",
+        "Mehrauli", "Chattarpur", "Vasant Vihar", "R K Puram", "Munirka"
+      ]
+    }
+  ]
+}

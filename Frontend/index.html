@@ -3,86 +3,151 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Complaint AI - Analyzer</title>
+    <meta name="description" content="ResolveBot AI — Neural complaint classification and priority detection powered by machine learning." />
+    <title>ResolveBot AI - Complaint Analyzer</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </head>
 <body>
+
+    <!-- Custom cursor -->
+    <div class="cursor" id="cursor"></div>
     <div class="cyber-grid"></div>
     <div class="particles"></div>
-    
+
     <header class="navbar">
         <div class="nav-brand">
             <div class="brand-icon">AI</div>
             <div>
-                <h1>Complaint AI</h1>
+                <h1>ResolveBot AI</h1>
                 <p>Neural Complaint Classification</p>
             </div>
         </div>
         <nav class="nav-links">
-            <button class="nav-btn active" onclick="goTo('index.html')">Analyzer</button>
-            <button class="nav-btn" onclick="goTo('complaints.html')">Complaints</button>
-            <button class="nav-btn" onclick="goTo('stats.html')">Analytics</button>
+            <button class="nav-btn active" onclick="goTo('index.html')">
+                <i class="fas fa-robot"></i> Analyzer
+            </button>
+            <button class="nav-btn" onclick="goTo('complaints.html')">
+                <i class="fas fa-list"></i> Complaints
+            </button>
+            <button class="nav-btn" onclick="goTo('stats.html')">
+                <i class="fas fa-chart-line"></i> Analytics
+            </button>
         </nav>
     </header>
 
     <main class="main-layout">
+
+        <!-- Page header -->
         <section class="page-header card">
             <div>
-                <span class="hero-badge">Neural Engine</span>
+                <span class="hero-badge">⚡ Neural Engine</span>
                 <h2>Analyze Complaint</h2>
-                <p>Paste complaint text and get instant AI classification with priority & category detection.</p>
+                <p>Paste or speak your complaint — AI will auto-detect city, area, category &amp; priority instantly.</p>
             </div>
         </section>
 
+        <!-- Analyzer card -->
         <section class="content-grid">
             <div class="card analyzer-card">
                 <div class="section-heading">
                     <h2>Complaint Input</h2>
-                    <p>Enter complaint details for automatic classification</p>
+                    <p>Enter complaint details for automatic AI classification</p>
                 </div>
-                
+
+                <!-- Input type dropdown -->
                 <div class="input-group">
                     <label>Input Type</label>
                     <div class="custom-dropdown" id="inputType">
-                    <div class="selected" onclick="toggleDropdown()">Text</div>
-                    
-                    <div class="options" id="dropdownOptions">
-                        <div onclick="selectOption('Text')">Text</div>
-                        <div onclick="selectOption('Call Summary')">Call Summary</div>
+                        <div class="selected" onclick="toggleDropdown()">✏️ Text</div>
+                        <div class="options" id="dropdownOptions">
+                            <div onclick="selectOption('Text')">✏️ Text</div>
+                            <div onclick="selectOption('Email')">✉️ Email</div>
+                            <div onclick="selectOption('Call Summary')">📞 Call Summary (Voice)</div>
+                        </div>
                     </div>
                 </div>
-                </div>
-                
-                <div class="input-group">
-                    <label>City</label>
-                  <div class="custom-dropdown" id="cityDropdown">
-    <div class="selected" id="selectedCity" onclick="toggleCity()">Select City</div>
-                <div class="options" id="cityOptions">
-                    <div onclick="selectCity('Surat')">Surat</div>
-                    <div onclick="selectCity('Ahmedabad')">Ahmedabad</div>
-                    <div onclick="selectCity('Pune')">Pune</div>
-                    <div onclick="selectCity('Mumbai')">Mumbai</div>
-                    <div onclick="selectCity('Delhi')">Delhi</div>
-                </div>
-                </div>
-                </div>
-                
-                <div class="input-group">
-                    <label>Area</label>
-                    <input type="text" id="area" placeholder="Enter Area (e.g., Adajan, Vesu)">
-                </div>
-                <br>
-                <textarea id="complaint" placeholder="Type your complaint here... (e.g., 'My order #12345 was delayed 3 days and customer service hung up on me')"></textarea>
-                
-                <div class="action-row">
-                    <button class="primary" onclick="analyze()">🔍 Analyze Complaint</button>
-                    <button class="secondary" onclick="clearForm()">🗑️ Clear</button>
-                    <!-- <button class="secondary" onclick="startVoice()">🎙️ Voice Input</button> -->
+
+                <!-- Email fields (hidden by default) -->
+                <div id="emailFields" style="display: none; margin-top: 8px; animation: fadeIn 0.3s ease;">
+                    <div class="input-group">
+                        <label>Sender Email Address</label>
+                        <input type="email" id="emailSender" placeholder="customer@example.com" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; color: #fff; font-family: inherit;" />
+                    </div>
+                    <div class="input-group" style="margin-top: 12px;">
+                        <label>Email Subject</label>
+                        <input type="text" id="emailSubject" placeholder="e.g. Defective wellness batch" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; color: #fff; font-family: inherit;" />
+                    </div>
                 </div>
 
+                <!-- City dropdown — populated from cities.json -->
+                <div class="input-group" style="margin-top: 12px;">
+                    <label>City <span class="auto-tag" id="cityAutoTag" style="display:none;">🎙️ Auto-detected</span></label>
+                    <div class="custom-dropdown" id="cityDropdown">
+                        <div class="selected" id="selectedCity" onclick="toggleCity()">
+                            <span id="selectedCityText">Select City</span>
+                            <i class="fas fa-chevron-down dropdown-arrow"></i>
+                        </div>
+                        <div class="options" id="cityOptions">
+                            <!-- Populated dynamically from cities.json -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Area — autocomplete datalist, changes based on city -->
+                <div class="input-group">
+                    <label>Area <span class="auto-tag" id="areaAutoTag" style="display:none;">🎙️ Auto-detected</span></label>
+                    <div class="area-input-wrap">
+                        <input
+                            type="text"
+                            id="area"
+                            placeholder="Select or type your area..."
+                            list="areaList"
+                            autocomplete="off"
+                        />
+                        <datalist id="areaList">
+                            <!-- Populated dynamically based on selected city -->
+                        </datalist>
+                        <span class="area-hint" id="areaHint">Select a city first to see area suggestions</span>
+                    </div>
+                </div>
+
+                <!-- Complaint textarea + char counter -->
+                <div class="input-group" style="margin-top: 8px;">
+                    <label id="descriptionLabel">Complaint Description</label>
+                    <textarea
+                        id="complaint"
+                        placeholder="Describe the issue in detail... (e.g., 'The safety seal on my wellness supplement bottle was torn and open when I received the delivery today.')"
+                    ></textarea>
+                    <div class="char-counter-row">
+                        <span id="charCounter" class="char-counter">0 / 2000</span>
+                    </div>
+                </div>
+
+                <!-- Action buttons -->
+                <div class="action-row">
+                    <button class="primary" onclick="analyze()">
+                        <i class="fas fa-search"></i> Analyze
+                    </button>
+                    <button class="secondary" id="voiceBtn" onclick="startVoice()">
+                        🎙️ Voice Input
+                    </button>
+                    <button class="secondary" onclick="clearForm()">
+                        🗑️ Clear
+                    </button>
+                </div>
+
+                <!-- Voice status indicator -->
+                <div id="voiceStatus" class="voice-status-bar" style="display:none;">
+                    <div class="voice-pulse"></div>
+                    <span id="voiceStatusText">Listening...</span>
+                </div>
+
+                <!-- Result box -->
                 <div id="result" class="result-box"></div>
             </div>
         </section>
+
     </main>
 
     <script src="script.js"></script>

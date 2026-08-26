@@ -1,0 +1,16 @@
+text,category,priority,recommendation,sla,city,area,status
+I am unable to find job,Career,Medium,Provide career counseling and placement support,48 hours,Surat,wuihf,Resolved
+Garbage bins are overflowing near the hostel area,Hostel,Low,Inform hostel warden,72 hours,Surat,wuihf,Pending
+No transport facility available after evening classes,Transport,Medium,Contact transport department and review schedule,48 hours,Ahmedabad,Sarkhej,Resolved
+No security guards near parking area at night,Security,Medium,Inform security team,48 hours,Ahmedabad,Sarkhej,Pending
+Unauthorized people entering campus frequently,Security,High,Alert campus security and increase monitoring in the area,24 hours,Pune,Sangli,Pending
+Mess food quality has degraded recently,Food,High,Inspect food quality,24 hours,Pune,Sangli,Pending
+College WiFi is extremely slow in classrooms,IT Services,Medium,Check network infrastructure and resolve WiFi connectivity issues,48 hours,Ahmedabad,Ranip,Pending
+Water leakage problem in bathroom,Infrastructure,Medium,Inform maintenance team to fix water leakage and plumbing issues,48 hours,Surat,hh,Pending
+Student enter without id card,Security,High,Enforce ID verification and restrict unauthorized access,24 hours,,,Pending
+Lack of study materials,Academic,High,Provide academic resources,24 hours,Delhi,Gurgaon,Pending
+Food delivered in bad condition,Food,Low,"Conduct food quality inspection, review hygiene standards, and improve mess services",72 hours,Mumbai,Juhu,Pending
+refund not received,Finance,Medium,Verify and process refund,48 hours,Ahmedabad,Ranip,Pending
+there is a port hole at Chandra Nagar solve it immediately,Infrastructure,High,Inspect classroom facilities and improve ventilation and maintenance,24 hours,Ahmedabad,Chandranagar,Pending
+refund not received ,Finance,Medium,Verify and process refund,48 hours,Ahmedabad,Gota,Resolved
+refund not received ,Finance,Medium,Verify and process refund,48 hours,Surat,gota,Pending

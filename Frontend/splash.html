@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Complaint AI</title>
+    <title>ResolveBot AI</title>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Poppins:wght@300;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
@@ -118,7 +118,7 @@
 
         .title::before,
         .title::after {
-            content: 'Complaint AI';
+            content: 'ResolveBot AI';
             position: absolute;
             top: 0;
             left: 0;
@@ -328,7 +328,7 @@
     <div class="particles" id="particles"></div>
 
     <div class="container">
-        <h1 class="title">Complaint AI</h1>
+        <h1 class="title">ResolveBot AI</h1>
         <p class="subtitle">
             <i class="fas fa-brain"></i> Smart Complaint Classification & Resolution
             <i class="fas fa-bolt"></i>
@@ -365,13 +365,14 @@
         const cursor = document.getElementById('cursor');
         document.addEventListener('mousemove', (e) => {
             cursor.style.left = e.clientX + 'px';
-            cursor.style.top = e.clientY + 'px';
+            cursor.style.top  = e.clientY + 'px';
+            cursor.style.transform = 'translate(-50%, -50%)';
         });
 
         // Particle System
         function createParticles() {
             const particlesContainer = document.getElementById('particles');
-            for (let i = 0; i < 50; i++) {
+            for (let i = 0; i < 40; i++) {
                 const particle = document.createElement('div');
                 particle.className = 'particle';
                 particle.style.left = Math.random() * 100 + '%';
@@ -382,28 +383,41 @@
         }
         createParticles();
 
-        // Animated Counters
+        // Animated Counters — handles numeric and string targets like "99%", "0.1s", "10K"
         function animateCounters() {
             const numbers = document.querySelectorAll('.stat-number');
-            numbers.forEach(number => {
-                const target = parseInt(number.getAttribute('data-target'));
-                let current = 0;
-                const increment = target / 50;
+            numbers.forEach(el => {
+                const rawTarget = el.getAttribute('data-target') || '0';
+
+                // Parse the numeric part and remember any suffix
+                const numericMatch = rawTarget.match(/^[\d.]+/);
+                if (!numericMatch) {
+                    // Non-numeric (e.g. purely text) — just set it
+                    el.textContent = rawTarget;
+                    return;
+                }
+
+                const targetNum  = parseFloat(numericMatch[0]);
+                const suffix     = rawTarget.slice(numericMatch[0].length); // e.g. "K", "%", "s"
+                const isDecimal  = rawTarget.includes('.');
+                const steps      = 60;
+                const increment  = targetNum / steps;
+                let current      = 0;
+
                 const timer = setInterval(() => {
                     current += increment;
-                    if (current >= target) {
-                        current = target;
+                    if (current >= targetNum) {
+                        current = targetNum;
                         clearInterval(timer);
                     }
-                    number.textContent = current.toLocaleString();
-                }, 50);
+                    const display = isDecimal ? current.toFixed(1) : Math.round(current).toLocaleString();
+                    el.textContent = display + suffix;
+                }, 40);
             });
         }
 
         // Start animations after 500ms
-        setTimeout(() => {
-            animateCounters();
-        }, 500);
+        setTimeout(animateCounters, 500);
 
         // Redirect after 5 seconds
         setTimeout(() => {

@@ -3,47 +3,105 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Complaints | Complaint AI</title>
+    <meta name="description" content="ResolveBot AI — View and manage all complaints in real time." />
+    <title>Complaints | ResolveBot AI</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </head>
 <body onload="loadComplaints()">
+
+    <!-- Custom cursor -->
+    <div class="cursor" id="cursor"></div>
     <div class="cyber-grid"></div>
     <div class="particles"></div>
-    
+
     <header class="navbar">
         <div class="nav-brand">
-            <div class="brand-icon">CA</div>
+            <div class="brand-icon">📋</div>
             <div>
-                <h1>Complaint AI</h1>
+                <h1>ResolveBot AI</h1>
                 <p>Complaint Lifecycle Tracking</p>
             </div>
         </div>
         <nav class="nav-links">
-            <button class="nav-btn" onclick="goTo('index.html')">Analyzer</button>
-            <button class="nav-btn active" onclick="goTo('complaints.html')">Complaints</button>
-            <button class="nav-btn" onclick="goTo('stats.html')">Analytics</button>
+            <button class="nav-btn" onclick="goTo('index.html')">
+                <i class="fas fa-robot"></i> Analyzer
+            </button>
+            <button class="nav-btn active" onclick="goTo('complaints.html')">
+                <i class="fas fa-list"></i> Complaints
+            </button>
+            <button class="nav-btn" onclick="goTo('stats.html')">
+                <i class="fas fa-chart-line"></i> Analytics
+            </button>
         </nav>
     </header>
 
     <main class="main-layout">
+
+        <!-- Page header -->
         <section class="page-header card">
             <div>
-                <span class="hero-badge">Live Operations</span>
+                <span class="hero-badge">🔴 Live Operations</span>
                 <h2>All Complaints</h2>
                 <p>Monitor complaint status, priority levels, and resolution progress in real-time.</p>
             </div>
             <div class="header-actions">
-                <button class="secondary" onclick="location.reload()">🔄 Refresh</button>
-                <button class="primary" onclick="exportAll()">⬇️ Export CSV + PDF</button>
-                <button class="primary" onclick="exportCSV()">📊 CSV</button>
-                <button class="primary" onclick="exportPDF()">📄 PDF</button>
-                <button class="primary" onclick="printPage()">🖨️ Print</button>
+                <button class="secondary" onclick="loadComplaints(1)">🔄 Refresh</button>
+                <button class="primary"   onclick="exportCSV()">📊 Export CSV</button>
+                <button class="primary"   onclick="exportPDF()">📄 Export PDF</button>
+                <button class="secondary" onclick="printPage()">🖨️ Print</button>
             </div>
         </section>
 
-        <section class="card">
+        <!-- Search & Filter bar -->
+        <section class="card filter-card">
+            <div class="filter-row">
+                <div class="search-wrap">
+                    <i class="fas fa-search search-icon"></i>
+                    <input
+                        type="text"
+                        id="searchInput"
+                        placeholder="Search complaints..."
+                        oninput="applyFilters()"
+                        class="search-input"
+                    />
+                </div>
+
+                <select id="filterCategory" onchange="applyFilters()" class="filter-select">
+                    <option value="">All Categories</option>
+                    <option value="Product">Product</option>
+                    <option value="Packaging">Packaging</option>
+                    <option value="Trade">Trade</option>
+                </select>
+
+                <select id="filterPriority" onchange="applyFilters()" class="filter-select">
+                    <option value="">All Priorities</option>
+                    <option value="High">🔴 High</option>
+                    <option value="Medium">🟡 Medium</option>
+                    <option value="Low">🟢 Low</option>
+                </select>
+
+                <select id="filterStatus" onchange="applyFilters()" class="filter-select">
+                    <option value="">All Status</option>
+                    <option value="Pending">⏳ Pending</option>
+                    <option value="In Progress">🔄 In Progress</option>
+                    <option value="Resolved">✅ Resolved</option>
+                </select>
+
+                <button class="secondary btn-small" onclick="resetFilters()">
+                    ✖ Reset
+                </button>
+            </div>
+        </section>
+
+        <!-- Complaint list -->
+        <section class="card" style="padding: 24px;">
             <div id="list" class="complaint-list"></div>
         </section>
+
+        <!-- Pagination -->
+        <div id="pager"></div>
+
     </main>
 
     <script src="script.js"></script>

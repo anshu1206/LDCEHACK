@@ -51,5 +51,4 @@ print(df["Category"].value_counts())
 
 # Save model
 joblib.dump(model, "complaint_model.pkl")
-
-print("✅ Model trained and saved successfully!")
+print("Model trained and saved successfully!")

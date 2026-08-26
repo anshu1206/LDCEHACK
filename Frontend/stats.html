@@ -3,20 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analytics Dashboard | Complaint AI</title>
+    <meta name="description" content="ResolveBot AI — Real-time analytics dashboard for complaint tracking and resolution metrics." />
+    <title>Analytics Dashboard | ResolveBot AI</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body onload="loadStats()">
+
+    <!-- Custom cursor -->
+    <div class="cursor" id="cursor"></div>
     <div class="cyber-grid"></div>
     <div class="particles"></div>
-    
+
     <!-- NAVBAR -->
     <header class="navbar">
         <div class="nav-brand">
             <div class="brand-icon">📊</div>
             <div>
-                <h1>Complaint AI</h1>
+                <h1>ResolveBot AI</h1>
                 <p>Neural Analytics Dashboard</p>
             </div>
         </div>
@@ -35,6 +40,7 @@
 
     <!-- CYBERPUNK DASHBOARD -->
     <main class="dashboard-main">
+
         <!-- HEADER STATS -->
         <section class="stats-header">
             <div class="stat-card cyber-card glow-cyan">
@@ -43,11 +49,11 @@
                     <div class="stat-label">Total Complaints</div>
                     <span class="stat-number" id="totalCount">0</span>
                     <div class="stat-change positive">
-                        <i class="fas fa-arrow-up"></i> Live
+                        <i class="fas fa-circle"></i> Live
                     </div>
                 </div>
             </div>
-            
+
             <div class="stat-card cyber-card glow-green">
                 <i class="fas fa-check-circle stat-icon"></i>
                 <div class="stat-content">
@@ -58,7 +64,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="stat-card cyber-card glow-red">
                 <i class="fas fa-clock stat-icon"></i>
                 <div class="stat-content">
@@ -71,11 +77,56 @@
             </div>
         </section>
 
-        <!-- PERFECT 2x2 CHARTS GRID -->
+        <!-- DASHBOARD FILTER BAR -->
+        <section class="card filter-card" style="margin-bottom: 24px;">
+            <div class="filter-row">
+                <span class="filter-title" style="font-family:'Orbitron',monospace; font-weight:700; color:var(--neon-cyan); margin-right: 12px;">
+                    <i class="fas fa-filter"></i> Filters
+                </span>
+                
+                <select id="statsFilterCity" onchange="loadStats()" class="filter-select">
+                    <option value="">All Cities</option>
+                    <option value="Surat">Surat</option>
+                    <option value="Ahmedabad">Ahmedabad</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Delhi">Delhi</option>
+                </select>
+
+                <select id="statsFilterCategory" onchange="loadStats()" class="filter-select">
+                    <option value="">All Categories</option>
+                    <option value="Product">Product</option>
+                    <option value="Packaging">Packaging</option>
+                    <option value="Trade">Trade</option>
+                </select>
+
+                <select id="statsFilterPriority" onchange="loadStats()" class="filter-select">
+                    <option value="">All Priorities</option>
+                    <option value="High">🔴 High</option>
+                    <option value="Medium">🟡 Medium</option>
+                    <option value="Low">🟢 Low</option>
+                </select>
+
+                <button class="secondary btn-small" onclick="resetStatsFilters()">
+                    ✖ Reset
+                </button>
+            </div>
+        </section>
+
+        <!-- TIMELINE CHART (FULL WIDTH TREND) -->
+        <section class="chart-card cyber-card full-span-chart" style="margin-bottom: 28px;">
+            <div class="chart-title">
+                <i class="fas fa-chart-area"></i> Complaint Volume Trend (Daily Timeline)
+            </div>
+            <div class="chart-wrapper" style="height: 320px;">
+                <canvas id="timelineChart"></canvas>
+            </div>
+        </section>
+
+        <!-- CHARTS 2x2 GRID -->
         <section class="charts-grid-2x2">
             <!-- TOP ROW: Priority + City -->
             <div class="chart-row">
-                <!-- PRIORITY CHART -->
                 <div class="chart-card cyber-card">
                     <div class="chart-title">
                         <i class="fas fa-fire"></i> Priority Distribution
@@ -85,10 +136,8 @@
                     </div>
                 </div>
 
-                <!-- CITY CHART -->
                 <div class="chart-card cyber-card">
                     <div class="chart-title">
-                        <p id="topCity" style="margin-top:10px; color:#00f5ff; font-weight:600;"></p>
                         <i class="fas fa-map-marker-alt"></i> City Distribution
                     </div>
                     <div class="chart-wrapper">
@@ -99,7 +148,6 @@
 
             <!-- BOTTOM ROW: Category + Status -->
             <div class="chart-row">
-                <!-- CATEGORY CHART -->
                 <div class="chart-card cyber-card">
                     <div class="chart-title">
                         <i class="fas fa-tags"></i> Category Breakdown
@@ -108,9 +156,7 @@
                         <canvas id="categoryChart"></canvas>
                     </div>
                 </div>
-                
 
-                <!-- STATUS CHART (NOW BESIDE CATEGORY) -->
                 <div class="chart-card cyber-card">
                     <div class="chart-title">
                         <i class="fas fa-chart-pie"></i> Status Overview
@@ -120,19 +166,41 @@
                     </div>
                 </div>
             </div>
+
+            <!-- THIRD ROW: Channels + SLA -->
+            <div class="chart-row" style="margin-top: 28px;">
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <i class="fas fa-envelope-open-text"></i> Intake Channels
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="channelChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card cyber-card">
+                    <div class="chart-title">
+                        <i class="fas fa-business-time"></i> SLA Compliance Rate
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="slaChart"></canvas>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- CONTROLS -->
         <div class="dashboard-controls cyber-card">
-            
-            <button class="btn-neon" onclick="location.reload()">
-                <i class="fas fa-sync-alt"></i> Refresh Live
+            <button class="btn-neon" onclick="loadStats()">
+                <i class="fas fa-sync-alt"></i> Refresh Now
             </button>
             <div class="live-status">
                 <div class="live-dot"></div>
                 <span>Real-time Data</span>
             </div>
+            <span id="refreshCountdown" class="refresh-countdown">Auto-refresh in 30s</span>
         </div>
+
     </main>
 
     <script src="script.js"></script>
